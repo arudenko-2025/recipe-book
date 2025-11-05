@@ -37,11 +37,4 @@ A simple, creamy, and garlicky pasta dish that’s quick to make and full of fla
    Divide into bowls and garnish with parsley or chili flakes if desired.  
    Serve immediately.
 
----
-
-## 💡 Tips
-
-- For extra richness, add a spoonful of grated Parmesan.  
-- Sautéed shrimp or roasted vegetables pair beautifully with the garlicky sauce.  
-- Adjust garlic intensity to your liking.
 
