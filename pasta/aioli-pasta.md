@@ -1,10 +1,10 @@
-# 🥣 Aioli Pasta
+# Aioli Pasta
 
 A simple, creamy, and garlicky pasta dish that’s quick to make and full of flavor.
 
 ---
 
-## 🍝 Ingredients (2 servings)
+## Ingredients (2 servings)
 
 - 200 g spaghetti or linguine  
 - 3 cloves garlic, finely minced  
@@ -16,7 +16,7 @@ A simple, creamy, and garlicky pasta dish that’s quick to make and full of fla
 
 ---
 
-## 👩‍🍳 Instructions
+## Instructions
 
 1. **Cook the pasta**  
    Bring a large pot of salted water to a boil.  
